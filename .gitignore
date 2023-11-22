@@ -1,0 +1,10 @@
+fabfile.py
+/__pycache__/
+*/__pycache__/
+/*/__pycache/
+/*/*/__pycache__/
+/*/*/*/__pycache__/
+main.py
+file.json
+7-dump.sql
+10-dump.sql
